@@ -7,7 +7,7 @@ const NavBarContainer = () => {
     <section className='w-full flex justify-between border-2 px-10 h-[10vh] items-center text-2xl'>
       <Logo/>
       <Menu/>
-      <Menutwo/>
+      
     </section>
   )
 }
