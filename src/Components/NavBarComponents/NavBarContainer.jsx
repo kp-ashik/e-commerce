@@ -4,10 +4,10 @@ import Menu from './Menu'
 import Menutwo from './Menutwo'
 const NavBarContainer = () => {
   return (
-    <section className='w-full flex justify-between border-2 px-10 h-[10vh] items-center text-2xl'>
+    <section className=' flex justify-between font-thin h-[9vh] items-center text-sans'>
       <Logo/>
       <Menu/>
-      
+      <Menutwo/>
     </section>
   )
 }
