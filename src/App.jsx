@@ -6,6 +6,8 @@ import BodyTwo from './Components/BodyParts/BodyTwo'
 import BodyThree from './Components/BodyParts/BodyThree'
 import BodyFour from './Components/BodyParts/BodyFour'
 import Footer from './Components/Footer/Footer'
+import Carousel from './Components/BodyParts/Carousel'
+import BodyFive from './Components/BodyParts/BodyFive'
 const App = () => {
   return (
     <section>
@@ -19,7 +21,8 @@ const App = () => {
     <BodyTwo cost='$67.50'/>
     <BodyThree/>
     <BodyFour/>
-  
+    <Carousel/>
+    <BodyFive/>
     <Footer/>
     </section>
   )

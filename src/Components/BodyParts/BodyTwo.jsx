@@ -37,7 +37,7 @@ const BodyTwo = (props) => {
         <span className='border bg-red-900 text-white pt-1 pl-2 pb-1 pr-2 absolute top-285 left-133'>VDAY 10% Off</span>
         <span className='border bg-red-900 text-white pt-1 pl-2 pb-1 pr-2 absolute top-285 left-247'>VDAY 10% Off</span>
     </div>
-<button className=' relative top-10 left-170 font-sans border border-red-900 pl-12 pr-12 pt-4 pb-4 text-red-900 '>Shop All</button>
+<button className=' relative top-10 left-170 font-sans border border-red-900 pl-12 pr-12 pt-4 pb-4 text-red-900 hover:bg-red-900 hover:text-white hover:cursor-pointer '>Shop All</button>
   
 
         
